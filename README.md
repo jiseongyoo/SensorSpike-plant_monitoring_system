@@ -1,11 +1,11 @@
 Class: Mechatronics at Colorado School of Mines<br>
 Lecturer: Dr. Andrew Petruska<br>
 
-Student: Jiseong Yoo<br>
+Student: Jiseong Yoo, Natalie Fan, Benjamin Moser<br>
 Date: May 1, 2018<br>
 
 Description:<br>
- This system monitors environment of a plant pot; Light intensity, Humidity, Temperature, Moisture. Collected data from the sensors is shown on the E-paper display. When soil is too dry (Moisture = dry), the system waters.
+ This system monitors environment of a plant pot using sensors; light intensity, humidity, temperature and soil moisture. Collected data from the sensors is shown on the E-paper display. When soil is too dry (Moisture = dry), the system controls a solenoid valve connected with water tank to supply water.
 
 
 Library Setup
