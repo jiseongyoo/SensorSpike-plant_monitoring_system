@@ -1,3 +1,13 @@
+Class: Mechatronics at Colorado School of Mines<br>
+Lecturer: Dr. Andrew Petruska<br>
+
+Student: Jiseong Yoo<br>
+Date: May 1, 2018<br>
+
+Description:<br>
+ This system monitors environment of a plant pot; Light intensity, Humidity, Temperature, Moisture. Collected data from the sensors is shown on the E-paper display. When soil is too dry (Moisture = dry), the system waters.
+
+
 Library Setup
 1. Copy and paste library folders;
   - 'Adafruit_HTU21DF', 'BH1750FVI', 'epdif', 'epdpaint', 'epd2in9'
